@@ -1,0 +1,19 @@
+{
+    "name": "bredi/upload",
+    "description": "Upload de imagens e rotas",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "rodrigo souza",
+            "email": "rd7.rodrigo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "classmap": [],
+        "psr-4": {
+            "Bredi\\Upload\\": "src/"
+        }
+    }
+}
